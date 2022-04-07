@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@color/black">
+    <group  android:id="@+id/groupOne"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home"/>
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/ic_icon_facebook"
+            android:title="@string/menu_facebook" />
+        <item
+            android:id="@+id/instagram"
+            android:icon="@drawable/ic_icon_instagram"
+            android:title="@string/menu_instagram" />
+    </group>
+
+    <group
+        android:id="@+id/groupTwo" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/menu_share" />
+        <item
+            android:id="@+id/nav_qualify"
+            android:icon="@drawable/ic_star"
+            android:title="@string/menu_qualify" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/menu_logout" />
+    </group>
+</menu>

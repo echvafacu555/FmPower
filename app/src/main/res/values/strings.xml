@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fm Power 97.9</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fm Power 97.9</string>
+    <string name="nav_header_subtitle">Conscripto Bernardi - Entre Ríos</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_enviar_mensaje">Enviar mensaje</string>
+    <string name="menu_facebook">Visita Nuestro Facebook</string>
+    <string name="menu_instagram">Siguenos en Instagram</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Calificar</string>
+    <string name="todo">TODO</string>
+    <string name="menu_qualify">Calificar</string>
+    <string name="menu_logout">Salir</string>
+    <string name="legend">vayas a donde vayas... ¡Siempre estamos con vos!</string>
+</resources>
